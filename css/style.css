@@ -1,0 +1,31 @@
+html {
+  background: url(../img/bg.jpg);
+  background-size: cover;
+  cursor: url(../img/aim.cur), auto;
+}
+
+.container {
+  margin-top: 2rem;
+}
+
+
+
+.run-right {
+  background: url(../img/aoerjiaright.png);
+}
+
+.run-left {
+  background: url(../img/aoerjialeft.png);
+}
+
+.death {
+  background: url(../img/kibo.png);
+}
+
+.run {
+  width: 7rem;
+  height: 7rem;
+  /* border: 1px solid red; */
+  margin: 2rem;
+  background-size: cover;
+}
